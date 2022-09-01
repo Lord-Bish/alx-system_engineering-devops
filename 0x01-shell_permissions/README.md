@@ -1,0 +1,1 @@
+writting scripts for permissions
