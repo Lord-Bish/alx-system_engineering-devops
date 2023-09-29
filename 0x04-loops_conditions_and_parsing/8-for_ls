@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Displays file content in list format
+
+List=$(ls)
+
+for i in $List; do
+	echo "$i" | cut -d '-' -f2
+done
