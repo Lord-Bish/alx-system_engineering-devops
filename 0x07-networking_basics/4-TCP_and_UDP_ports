@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script creates a listening of networks with their# + IP addresses
+
+netstat -l --program
